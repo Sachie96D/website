@@ -62,8 +62,9 @@ input[type=button]:hover{
 }
 @media screen and (max-width:600px){
     width:100%;
-    margin-top:0px;
+    margin-top:40px;
 }
+
 .container h1{
     font-variant: small-caps;
     font-weight: bold;
@@ -148,4 +149,7 @@ body h1{
     background:rgb(7, 245, 233);
 
 }
-
+.top{
+    color: aquamarine;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
