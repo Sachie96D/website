@@ -1,2 +1,4 @@
 # website
-This is for experiment
+
+Personal Portfolio Example\
+Technology: HTML, CSS, JavaScript
